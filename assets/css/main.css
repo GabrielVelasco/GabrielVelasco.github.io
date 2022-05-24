@@ -3929,3 +3929,7 @@ input, select, textarea {
 		#footer {
 			background-color: #353131;
 		}
+
+		#inner2 ul a {
+			border-bottom: none;
+		}
